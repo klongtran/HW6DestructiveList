@@ -368,7 +368,7 @@ public class DestructiveListTest
 			assertEquals("P", instance.get(15));
 			assertEquals("Q", instance.get(16));
 
-			
+
 		//--- 5s
 		instance = getSampleListSize16();
 		instance.rotate(5);
